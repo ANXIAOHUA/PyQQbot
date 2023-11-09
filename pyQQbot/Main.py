@@ -16,8 +16,8 @@ except:
     print("openAI配置失败！")
 
 #机器人设置
-admin = []          #qqbot的超管
-qqbot = 123456      #qqbot的QQ好
+admin = [3400529556]          #qqbot的超管
+qqbot = 1689498267      #qqbot的QQ好
 botname = "botName" #qqbot的名字
 
 #取消警告
